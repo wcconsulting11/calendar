@@ -1,0 +1,19 @@
+#cal-container{
+width: 300px;
+height: 300px;
+border: 1px solid black;
+margin: 150px 300px;
+}
+#cal-header{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+i{
+    font-size: 18px;
+}
+
+.my{
+    display: inline;
+}
+
